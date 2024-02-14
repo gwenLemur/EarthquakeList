@@ -101,7 +101,7 @@ class EarthquakeListActivity : AppCompatActivity() {
                 binding.recyclerView.adapter = adapter
                 binding.recyclerView.layoutManager = LinearLayoutManager(applicationContext)
 
-
+                //
             }
 
             override fun onFailure(call: Call<FeatureCollection>, t: Throwable) {
