@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/nav_opt1"
+        android:title="Sort by Mag"/>
+    <item android:id="@+id/nav_opt2"
+        android:title="Sort by Time"/>
+    <item android:id="@+id/nav_opt3"
+        android:title="Color Legend"/>
+
+</menu>
